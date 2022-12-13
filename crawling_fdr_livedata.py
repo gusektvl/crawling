@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import pandas_datareader as pdr
 import yfinance as yf
 import FinanceDataReader as fdr
 import requests
